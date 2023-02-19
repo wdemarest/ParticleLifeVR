@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33ebfc30f51b4b74f963cbbaaf9ed587, type: 3}
+  m_Name: SS Tier 3
+  m_EditorClassIdentifier: 
+  _expanded: 1
+  _order: 2
+  _active: 1
+  _notes: 
+  _logOutput: 0
+  _tiers:
+  - platform: 9
+    stripTier1: 1
+    stripTier2: 0
+    stripTier3: 1
+  - platform: 4
+    stripTier1: 1
+    stripTier2: 1
+    stripTier3: 0
